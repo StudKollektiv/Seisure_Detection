@@ -1,0 +1,17 @@
+==================================================
+DETAILED EXPERIMENT REPORT
+--------------------------------------------------
+Model File:               process_2_trained_from_scratch
+Processing Method:        slice_n_grid
+Training Mode:            From Scratch
+--------------------------------------------------
+WeightedRandomSampler:    Enabled
+CrossEntropy Weights:     Adjusted (1.0, 5.0)
+Freeze State:             Disabled
+--------------------------------------------------
+Accuracy (Unbalanced):    0.9465 (94.65%)
+Balanced Accuracy:        0.7376 (73.76%)
+F1-Score:                 0.6053
+Recall (Sensitivity):     0.4864 (48.64%)
+Precision:                0.8013
+==================================================

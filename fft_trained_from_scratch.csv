@@ -1,0 +1,17 @@
+==================================================
+DETAILED EXPERIMENT REPORT
+--------------------------------------------------
+Model File:               fft_trained_from_scratch
+Processing Method:        fft
+Training Mode:            From Scratch
+--------------------------------------------------
+WeightedRandomSampler:    Enabled
+CrossEntropy Weights:     Adjusted (1.0, 5.0)
+Freeze State:             Disabled
+--------------------------------------------------
+Accuracy (Unbalanced):    0.9465 (94.65%)
+Balanced Accuracy:        0.7712 (77.12%)
+F1-Score:                 0.6386
+Recall (Sensitivity):     0.5603 (56.03%)
+Precision:                0.7423
+==================================================
